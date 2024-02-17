@@ -1,0 +1,10 @@
+sumBelowDiagonal, I1
+arr, I2
+rows, I3
+cols, I4
+sum, I6
+rowIndex, I7
+colIndex, I9
+<, I10
+&&, I11
+i, I12
